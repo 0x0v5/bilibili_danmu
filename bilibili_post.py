@@ -63,10 +63,9 @@ class SendLiveRoll():
 
 if __name__ == "__main__":
     
-    #房间号
+    # 房间号
     lolromid = 7734200     
 
-    sing = '19:20《不能说的秘密》等了八年了'
     Praise_list = ['666','牛b','厉害','太强了','服气','精彩','秒啊','有点东西','赞','泪目','赢麻了','打扰了']
 
     sendliveroll = SendLiveRoll(lolromid)
