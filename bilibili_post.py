@@ -81,6 +81,3 @@ if __name__ == "__main__":
         # 设置时间间隔
         num = random.random() + 5
         time.sleep(num)
-
-
-        print("data")
